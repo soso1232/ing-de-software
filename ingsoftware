@@ -1,20 +1,16 @@
 # Documento de Especificación de Requisitos - Prototipado CRM + ERP para Emprendedores
 
-## 1. Actores del Sistema
+##1. Actores del Sistema
 
-**Admin:** Usuario encargado de administrar y controlar el sistema. Tiene acceso al 100% de los módulos y funcionalidades de la aplicación y cuenta con permisos para gestionar los usuarios mediante las operaciones de creación, consulta, actualización y eliminación (CRUD).
-
-**Socio:** Usuario del emprendimiento que participa en la gestión de los diferentes procesos y proyectos del negocio. Tiene acceso al 100% de los módulos y funcionalidades del sistema, excepto a la administración de usuarios.
-
-**Comercial:** Usuario encargado de gestionar la relación con los clientes y los procesos comerciales del emprendimiento. Tiene acceso al módulo CRM para administrar clientes, realizar seguimiento de oportunidades y gestionar las actividades comerciales.
-
-**Contador:** Usuario encargado de gestionar los procesos financieros y contables del emprendimiento. Tiene acceso al módulo ERP para registrar, consultar y gestionar la información financiera y administrativa del negocio.
-
-**Vendedor:** Usuario encargado de apoyar el proceso de ventas mediante la elaboración y gestión de cotizaciones. Tiene acceso al módulo de Cotización, perteneciente al CRM, para gestionar las cotizaciones de productos o servicios ofrecidos a los clientes.
+ 1.**Admin:** Usuario encargado de administrar y controlar el sistema. Tiene acceso al 100% de los módulos y funcionalidades de la aplicación y cuenta con permisos para gestionar los usuarios mediante las operaciones de creación, consulta, actualización y eliminación (CRUD).
+ 2.**Socio:** Usuario del emprendimiento que participa en la gestión de los diferentes procesos y proyectos del negocio. Tiene acceso al 100% de los módulos y funcionalidades del sistema, excepto a la administración de usuarios.
+ 3.**Comercial:** Usuario encargado de gestionar la relación con los clientes y los procesos comerciales del emprendimiento. Tiene acceso al módulo CRM para administrar clientes, realizar seguimiento de oportunidades y gestionar las actividades comerciales.
+ 4.**Contador:** Usuario encargado de gestionar los procesos financieros y contables del emprendimiento. Tiene acceso al módulo ERP para registrar, consultar y gestionar la información financiera y administrativa del negocio.
+ 5.**Vendedor:** Usuario encargado de apoyar el proceso de ventas mediante la elaboración y gestión de cotizaciones. Tiene acceso al módulo de Cotización, perteneciente al CRM, para gestionar las cotizaciones de productos o servicios ofrecidos a los clientes.
 
 ---
 
-## 2. Matriz de Transformación: Problemas, Necesidades y Requisitos Funcionales
+##2. Matriz de Transformación: Problemas, Necesidades y Requisitos Funcionales
 
 | # | Problema Identificado | Necesidad de Software | Requisito Funcional |
 | :-: | :--- | :--- | :--- |
